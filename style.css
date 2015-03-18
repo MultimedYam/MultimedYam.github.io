@@ -26,6 +26,7 @@ footer {
   background-color: #0066cc;
   color: white;
   padding: 5px;
+  padding-bottom:3px;
 }
 header {
   display:block;
