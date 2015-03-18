@@ -11,7 +11,9 @@ details,
 figcaption,
 figure,
 footer,
-header,
+header {
+  display:block;
+}
 hgroup,
 main,
 nav,
