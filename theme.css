@@ -8,10 +8,12 @@
 #nav {
     line-height:30px;
     background-color:#eeeeee;
-    height:100%;
+    height:auto;
     width:100px;
     float:left;
     padding:5px; 
+    position:relative;
+    min-height:100%;
 }
 #section {
     width:500px;
