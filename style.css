@@ -10,7 +10,13 @@ aside,
 details,
 figcaption,
 figure,
-footer,
+footer {
+  display:block;
+  text-align: center;
+  background-color: black;
+  color: white;
+  padding: 5px;
+}
 header {
   display:block;
   text-align: center;
