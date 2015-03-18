@@ -22,7 +22,11 @@ header {
 hgroup,
 main,
 nav,
-section,
+section {
+  display: block;
+  padding-left: 200px;
+  padding-right: 200px;
+}
 summary {
   display: block;
 }
