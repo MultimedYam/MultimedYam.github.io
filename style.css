@@ -10,9 +10,7 @@ aside {
   display:block;
   float:left;
   text-align:left;
-  padding-top:10px;
-  padding-left:20px;
-  padding-bottom:40px;
+  padding:20px;
   width:150px;
   background-color:#4f4f4f;
   color:white;
