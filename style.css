@@ -13,6 +13,10 @@ figure,
 footer,
 header {
   display:block;
+  text-align: center;
+  background-color: black;
+  color: white;
+  padding: 5px;
 }
 hgroup,
 main,
