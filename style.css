@@ -13,7 +13,7 @@ aside {
   padding-left:20px;
   width:150px;
   background-color:#4f4f4f;
-  color:#f9f8f8;
+  color:white;
 }
 details,
 figcaption,
@@ -21,15 +21,15 @@ figure,
 footer {
   display:block;
   text-align: center;
-  background-color: #333;
-  color: #242424;
+  background-color: #242424;
+  color: #white;
   padding: 5px;
 }
 header {
   display:block;
   text-align: center;
-  background-color: #333;
-  color: #242424;
+  background-color: #242424;
+  color: white;
   padding: 5px;
   padding-top: 20px;
 }
