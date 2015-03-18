@@ -10,7 +10,8 @@ aside {
   display:block;
   float:left;
   text-align:left;
-  width:200px;
+  padding-left:20px;
+  width:150px;
   background-color:#a7a7a7;
   color:#f9f8f8;
 }
