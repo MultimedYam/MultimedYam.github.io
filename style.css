@@ -14,6 +14,7 @@ aside {
   width:150px;
   background-color:#4f4f4f;
   color:white;
+  height:100%;
 }
 details,
 figcaption,
@@ -22,7 +23,7 @@ footer {
   display:block;
   text-align: center;
   background-color: #242424;
-  color: #white;
+  color: white;
   padding: 5px;
 }
 header {
