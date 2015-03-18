@@ -6,7 +6,13 @@
   box-sizing: border-box;
 }
 article,
-aside,
+aside {
+  display:block;
+  float:left;
+  width:200px;
+  background-color:#a7a7a7;
+  color:#f9f8f8;
+}
 details,
 figcaption,
 figure,
