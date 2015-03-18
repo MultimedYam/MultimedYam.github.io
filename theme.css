@@ -1,5 +1,6 @@
 <style>
-#header {
+header {
+    display:block;
     background-color:#000000;
     color:#ffffff;
     text-align:right;
